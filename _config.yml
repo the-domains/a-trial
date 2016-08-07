@@ -1,0 +1,14 @@
+layout_spectrum: 0.32487589912489057
+typography_spectrum: 0.5425962787121534
+color:
+  brandStrength: 0.9380410541780293
+  lightness: 0.903329512802884
+  saturation: 0.12330255145207047
+  rhythmicContrast: 0.18553690146654844
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: A trial
